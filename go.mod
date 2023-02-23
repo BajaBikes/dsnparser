@@ -1,3 +1,3 @@
-module github.com/kos-v/dsnparser
+module github.com/BajaBikes/dsnparser
 
 go 1.15
